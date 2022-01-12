@@ -1,0 +1,13 @@
+Excercise 0.6 - New Note(Single Page App):
+
+Note over browser:
+    User completes the input with text.
+    Click on submit button.
+end note
+
+Browser -> Server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+Server -> Browser: Stautos 201, Created.
+
+Note over browser:
+    The browser stays on the same page
+end note
