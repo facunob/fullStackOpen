@@ -23,7 +23,6 @@ function App() {
     setTimeout(setMessage(undefined), 10000);
   }
 
-  console.log(message);
 
   return (
     <div>
